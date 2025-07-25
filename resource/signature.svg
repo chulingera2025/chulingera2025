@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#36BCF7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8A2BE2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="50%" y="50%" dy=".35em" text-anchor="middle" font-family="Fira Code, monospace" font-size="27" fill="url(#gradient)">
+    庭有枇杷树，吾妻死之年所手植也，今已亭亭如盖矣。
+  </text>
+</svg>
