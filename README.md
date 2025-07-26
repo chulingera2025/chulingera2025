@@ -1,24 +1,24 @@
-<div style="text-align: center;">
+<div align="center">
   <img src="resource/gifff.gif" alt="Header GIF"/>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="resource/signature.svg" alt="Signature"/>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=chulingera2025&style=flat-square&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/chulingera2025?label=Followers&style=social" alt="Followers"/>
 </div>
 
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github.com/chulingera2025/chulingera2025/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
 
-<div style="text-align: center;">
+<div align="center">
 
 ### Programming Languages
 
@@ -57,21 +57,21 @@
 
 ---
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chulingera2025&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chulingera2025&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chulingera2025&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chulingera2025&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
@@ -79,7 +79,7 @@
 
 ## Contact information
 
-<div style="text-align: center;">
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chulingera2025)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chulingera2025@gmail.com)
