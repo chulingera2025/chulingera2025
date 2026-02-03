@@ -54,26 +54,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chulingera2025&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chulingera2025&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=chulingera2025&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chulingera2025&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ## Contact information
 
 <div align="center">
